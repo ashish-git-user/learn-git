@@ -1,0 +1,2 @@
+This is third file
+version 1.2
