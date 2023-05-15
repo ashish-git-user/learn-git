@@ -3,4 +3,8 @@ version 1.0
 New Line
 Added from UI
 Added another line from UI at 11.40
+<<<<<<< HEAD
 Added from Command line at 11.54
+=======
+One more addition at 11.46
+>>>>>>> 8e529e69e06ae3fad4d85df32e76a678ea4e0039
